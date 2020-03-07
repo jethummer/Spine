@@ -1,0 +1,19 @@
+{
+  "name": "com.jethummer.spine",
+  "displayName": "Spine",
+  "description": "Spine is a .NET library that support spine animation",
+  "version": "1.0.0",
+  "unity": "2019.2",
+  "unityRelease": "0a12",
+  "dependencies": {
+    
+  },
+  "relatedPackages": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jethummer/Spine.git",
+    "revision": ""
+  }
+}
